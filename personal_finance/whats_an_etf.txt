@@ -4,3 +4,5 @@ The people need to know what an ETF is! > Do I know what an ETF is? > Sure, but
 do I know it well enough to explain the difference between it, a publically
 traded stock, or a mutual fund?? > Ah shit, time to dig into the investopedia
 guide I guess.
+
+The short of it - it's an Exchange Traded Fund!
