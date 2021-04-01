@@ -17,7 +17,7 @@ Ex.
 # how_to_format.txt
 
 An easy to read thought process to provide context before reading sounds nice!
-> How can I simplify and standardize that? > How about a format guide
+> How can I simplify and standardize that? > How about a format guide?
 
 Also, try to not go beyond the 80 character line limit.
 
