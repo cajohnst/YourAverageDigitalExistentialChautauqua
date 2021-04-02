@@ -22,6 +22,16 @@ Now what is an exchange traded fund?
       short selling. Products like oil, gold, and crops such as coffee beans or
       corn become available for you to trade. Prior to ETFs, access was mostly
       limited to professional traders, banks, and high dollar clients.
+    - Expense Ratios: If you are not familiar with the fee structure of funds,
+      this may come as a surprise. The expense ratio is the amount charged you
+      by the fund to cover management expenses.  Depending on how "active"
+      management for the fund is, this fee can vary from 0-2% typically.
+      Most "passively" managed funds, such as the popular index fund mirroring
+      ETFs, will be far lower - in the 0.05-0.25% range. The expense ratio is
+      expressed as a yearly percentage. It is not an upfront cost to the
+      investor upon purchase, but an expense incurred for holding over time.
+      This is to say that the investor will not see the expense ratio deducted
+      from their investment directly.
 
 Some Pros
     - Market access: ETFs bring retail traders access to markets that might not
