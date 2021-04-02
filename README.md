@@ -57,9 +57,10 @@ mesmerizing to digest.
 
 And maybe I can use it as a soft intro to software development!
 
-So here it is.  My digital chautauqua, a little slice of the internet. Welcome!
-View it in its current state, see progressions over time, contribute (as simple
-as a pull request!), however suits your fancy.
+So here it is.  My digital chautauqua, a little slice of the internet and the
+aggregation of my creative pursuits. Welcome! View it in its current state, see
+progressions over time, contribute (as simple as a pull request!), however
+suits your fancy.
 
 Cheers,
 
