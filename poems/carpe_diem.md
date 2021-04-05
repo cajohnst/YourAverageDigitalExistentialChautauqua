@@ -1,4 +1,4 @@
-# carpe diem
+# Carpe Diem
 
 May 2013
 
