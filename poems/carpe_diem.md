@@ -1,13 +1,13 @@
 # carpe diem
 
-May 2013
+May 2013\
+\
+Carpe Diem - inspired by the Robert Frost poem of the same title.\
 
-Carpe Diem - inspired by the Robert Frost poem of the same title.
-
-Having perfected each facial feature
-She walked to the door and pulled back the drape
-To find, as was common procedure
-The sun giving way to a convex shape.
+Having perfected each facial feature\
+She walked to the door and pulled back the drape\
+To find, as was common procedure\
+The sun giving way to a convex shape.\
 
 She surged the dock, past reeds and leveled sand,
 To capture every prismatic color
