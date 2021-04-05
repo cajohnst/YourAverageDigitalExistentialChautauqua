@@ -2,7 +2,7 @@
 
 May 2013
 
-Carpe Diem - inspired by the Robert Frost poem of the same title.
+Carpe Diem - *inspired by the Robert Frost poem of the same title.*
 
 Having perfected each facial feature\
 She walked to the door and pulled back the drape\
