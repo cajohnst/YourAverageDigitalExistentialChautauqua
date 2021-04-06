@@ -10,14 +10,14 @@ In 2021, orders are overwhelmingly placed online with near instantaneous submiss
 
 The order attributes you will submit to your brokerage will likely serve to answer these questions:
 
-    - What is the **name** of the security we are interested in?
-    - What **type** of security are we looking to buy or sell? I.E stock, bond, future, option, etc.
-    - What exchange are we looking to trade on? (For most brokerages this is left ambiguous, but as a layer of transparency, some give you the option)
-    - Are we looking to **buy** or **sell** the above security?
-    - **How** would we like to buy or sell the security? I.E At the best available market price? At a particular price - should the market move in that direction?
-    - If we specified we would like to buy or sell at a specific price, what is that price?
-    - How many "shares" would we like to buy or sell to complete the order? Some brokerages may offer fractional shares which allows you to describe the order amount in dollars. **WARNING** - From personal experience, this is probably where user error is the most prominent.  I can't say that I *haven't* submitted an order for something like 100 shares when I *meant* $100. This could obviously be a HUGE mistake, so always review your order before submitting!
-    - Would we like for the order to **expire**? If so, when?
+- What is the **name** of the security we are interested in?
+- What **type** of security are we looking to buy or sell? I.E stock, bond, future, option, etc.
+- What exchange are we looking to trade on? (For most brokerages this is left ambiguous, but as a layer of transparency, some give you the option)
+- Are we looking to **buy** or **sell** the above security?
+- **How** would we like to buy or sell the security? I.E At the best available market price? At a particular price - should the market move in that direction?
+- If we specified we would like to buy or sell at a specific price, what is that price?
+- How many "shares" would we like to buy or sell to complete the order? Some brokerages may offer fractional shares which allows you to describe the order amount in dollars. **WARNING** - From personal experience, this is probably where user error is the most prominent.  I can't say that I *haven't* submitted an order for something like 100 shares when I *meant* $100. This could obviously be a HUGE mistake, so always review your order before submitting!
+- Would we like for the order to **expire**? If so, when?
 
 **The Two Fundamental Order Types**
 
@@ -44,9 +44,11 @@ To better understand how market prices work, see [What's Bid/Ask Pricing???](./w
 
 **Some Examples**
 
- 1. I just received my paycheck and am looking to invest a fraction of it for the long term. I like Apple as a company and have a solid *bullish* outlook towards their future trajectory. I like the stock, which is trading at $110 per share currently, but I think it is slightly overvalued at the moment. I am willing to wait to purchase the stock because I believe the stock is worth $100 per share.
+***Example 1:***
 
- I want to purchase up to 1 share of Apple stock and am willing to pay as much as $100 per share for it - and if I can't get a share at this price today, then remove my request - I will re-evaluate the market tomorrow.
+I just received my paycheck and am looking to invest a fraction of it for the long term. I like Apple as a company and have a solid *bullish* outlook towards their future trajectory. I like the stock, which is trading at $110 per share currently, but I think it is slightly overvalued at the moment. I am willing to wait to purchase the stock because I believe the stock is worth $100 per share.
+
+I want to purchase up to 1 share of Apple stock and am willing to pay as much as $100 per share for it - and if I can't get a share at this price today, then remove my request - I will re-evaluate the market tomorrow.
 
 Translating this scenario into order language might look like:
 
@@ -56,7 +58,9 @@ Translating this scenario into order language might look like:
 
 Good Till Day - A strange colloquialism used by traders instructing the brokerage to cancel an order request once the trading day is completed.  For equity, bond, options and futures markets in the US this translates to 4:30pm Eastern time. The term becomes more ambiguous in 24 hour markets such as in cryptocurrency exchange which have emerged in recent years.
 
-2. I purchased Apple stock approximately 3 years ago and it has appreciated for a handsome gain. The current bid price is $140.00 and the ask price is $141.00. It's important that I sell my shares today. I would like to sell my shares for $141.00 but I am ok with settling for $140.00 for some peace of mind.
+***Example 2:***
+
+I purchased Apple stock approximately 3 years ago and it has appreciated for a handsome gain. The current bid price is $140.00 and the ask price is $141.00. It's important that I sell my shares today. I would like to sell my shares for $141.00 but I am ok with settling for $140.00 for some peace of mind.
 
 Translating this scenario into order language might look like:
 
@@ -69,5 +73,6 @@ The settlement amount here is an approximation and could go up or down once the 
 Good Till Cancelled - Another strange colloquialism used by traders instructing the brokerage to leave the order open until it is either filled or cancelled by the trader. For most brokerages, this is probably the default mode for order submission.  In the context of a market order, this specification is probably trivial.
 
 *Final Thoughts*
+
 Once you have placed an order, it is the job of the brokerage to execute the order as quickly and efficiently and (hopefully) at the best price available on your behalf.  This is why brokerage selection is so vital to your sucess as a trader or investor.  See [How to Select a Brokerage???](./how_to_select_a_brokerage.md) for information on how to make that decision.
 
