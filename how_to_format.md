@@ -14,7 +14,7 @@ idea or thought process came about.
 
 Ex.
 
-# how_to_format.md
+    how_to_format.md
 
 An easy to read thought process to provide context before reading sounds nice!
 > How can I simplify and standardize that? > How about a format guide?
