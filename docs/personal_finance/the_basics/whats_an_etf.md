@@ -32,4 +32,4 @@ Expense Ratios: If you are not familiar with the fee structure of funds, this ma
 
 Happy Trading!
 
-<sub><sup>If you have further questions about orders or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>
+<sub><sup>If you have further questions about ETFs or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>

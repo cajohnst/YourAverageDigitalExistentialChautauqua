@@ -19,4 +19,4 @@ An investor/trader should analyze a brokerages' past history when it comes to sp
 
 Happy Trading!
 
-<sub><sup>If you have further questions about orders or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>
+<sub><sup>If you have further questions about bid/ask or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>
