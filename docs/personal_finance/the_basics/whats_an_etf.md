@@ -29,3 +29,7 @@ Expense Ratios: If you are not familiar with the fee structure of funds, this ma
 - Market access: ETFs bring retail traders access to markets they may have little knowledge or experience with. This is particularly the case I've found with leveraged ETFs (often ETNs, Exchange Traded Notes). Leverage here implies the use of options to magnify (1.5x, 2x, 3x) the daily return of the underlying asset.  This is often used in commodities trading since movements in commodities are more often cyclical and less volatile than equities, but more so than bonds. The risk/reward of leveraged ETFs is often understated and I would advise any investor not familiar with these products to be cautious.
 
 - Liquidity: Before purchasing an ETF analyze its daily volume.  The ETF space produces many ETFs that are very niche, and thus susceptible to liquidity issues when it comes time to buy or sell, and might also be subject to market manipulation tactics that would not otherwise be found trading the underlying asset(s).  That being said, generally this should not be an issue when trading common ETFs as a retail trader.
+
+Happy Trading!
+
+<sub><sup>If you have further questions about orders or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>

@@ -76,3 +76,7 @@ Good Till Cancelled - Another strange colloquialism used by traders instructing 
 
 Once you have placed an order, it is the job of the brokerage to execute the order as quickly and efficiently and (hopefully) at the best price available on your behalf.  This is why brokerage selection is so vital to your sucess as a trader or investor.  See [How to Select a Brokerage???](./how_to_select_a_brokerage.md) for information on how to make that decision.
 
+Happy Trading!
+
+<sub><sup>If you have further questions about orders or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>
+

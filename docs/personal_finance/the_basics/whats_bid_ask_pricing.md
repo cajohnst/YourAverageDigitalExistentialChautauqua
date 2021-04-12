@@ -16,3 +16,7 @@ In the equity and equity adjacent markets (stocks, cashs, futures, NOT bond, NOT
 
 ## What makes a good spread?
 An investor/trader should analyze a brokerages' past history when it comes to spreads, as the spread informs the investor/trader how liquid an asset is on the brokerage - i.e how many interested buyers and sellers exist in the marketplace.  Many brokerages, as dealers, inflate the spread as a fee to customers for their part in making the market. Spreads most effect customers generating a high volume of transactions.  The optimal market has a low spread - this is because a low spread grants the investor/trader more freedom to buy and sell as they choose for a minimal price penalty. A low spread over long periods of time tells the investor that there is ample liquidity in the market, which allows "takers" the expectation of "stable" prices when they go to execute their order. This is because there is a steady stream of interested market participants. It is particularly important to analyze increases and decreases in the spread during periods of high volatility, such as earnings events or federal reserve meeting minutes.  The spread serves as an overall barometer for the health of a market.
+
+Happy Trading!
+
+<sub><sup>If you have further questions about orders or any of my other pieces, comment or reach out! I will try my best to respond as quickly as possible.</sup></sub>
