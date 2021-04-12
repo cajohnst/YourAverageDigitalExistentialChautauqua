@@ -10,7 +10,7 @@ Here is how it might go down:
 
 **Step 2:** Gain reputation points among a few realtors with relatively major clout.
 
-**Step 3:** Generate up a list of solid, unsellable properties with the least nosy neighbors using pointers from your new realtor friends.
+**Step 3:** Generate up a list of solid, unsellable properties with the least nosy neighbors using leads from your new realtor friends.
 
 **Step 4:** Convince, or rather pre-select, clients to stage their apartment with move-in ready furnishings.
 
@@ -22,6 +22,6 @@ Here is how it might go down:
 
 **Step 8:** Leverage the fuck out of your saved earnings that would have been dumped into an apartment of your own. Invest in yourself- acting classes perhaps, or maybe order that newly minted NFT you've been lucidly dreaming about? Lock it up in the Cayman's?
 
-**Step 9:** Rinse, repeat. :recycle:
+**Step 9:** Rinse, repeat.
 
 *It's New York, baby and life's a dream in the city that never sleeps! Take what you must and profit where you can, we are realtors and we will get the job done (when the job is sleeping in your bed like Goldilocks).*
