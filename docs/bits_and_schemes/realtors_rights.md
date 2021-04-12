@@ -6,7 +6,7 @@ It is no secret, among the millenial types at least, that New York City rent cou
 
 Here is how it might go down:
 
-**Step 1:** Collect a real-estate license.
+**Step 1:** Collect a real estate license.
 
 **Step 2:** Gain reputation points among a few realtors with relatively major clout.
 
