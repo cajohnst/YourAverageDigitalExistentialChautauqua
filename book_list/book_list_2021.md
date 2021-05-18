@@ -23,3 +23,13 @@
 ***The Collected Poems of Sylvia Plath*** *- Sylvia Plath*
 
 ***Zen and the Art of Motorcycle Maintenance*** *- Robert Pirsig*
+
+***Thinking In Systems*** *- Donella Meadows*
+
+***Goodbye, Again*** *- Jonny Sun*
+
+***Homo Deus*** *-Yuval Harari*
+
+***Ishmael*** *-Daniel Quinn*
+
+***Leaves of Grass*** *-Walt Whitman*
