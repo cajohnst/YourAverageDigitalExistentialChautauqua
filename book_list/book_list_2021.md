@@ -28,8 +28,40 @@
 
 ***Goodbye, Again*** *- Jonny Sun*
 
-***Homo Deus*** *-Yuval Harari*
+***Homo Deus*** *- Yuval Harari*
 
-***Ishmael*** *-Daniel Quinn*
+***Ishmael*** *- Daniel Quinn*
 
-***Leaves of Grass*** *-Walt Whitman*
+***Leaves of Grass*** *- Walt Whitman*
+
+***How to Avoid a Climate Disaster*** *- Bill Gates*
+
+***On Writing Well*** *- William Zinnser*
+
+***Walden*** *- Henry David Thoreau*
+
+***The Fire Next Time*** *- James Baldwin*
+
+***The Hungry Brain*** *- Stephan Guyenet*
+
+***In Search of Lost Time: Swann’s Way*** *- Marcel Proust*
+
+***Giovanni's Room*** *- James Baldwin*
+
+***Thinking Fast and Slow*** *- Daniel Kahneman (Second Read)*
+
+***Metamorphosis*** *- Franz Kafka*
+
+***From Darwin To Derrida*** *- David Haig*
+
+***Philosophy of Language*** *- William Lycan*
+
+***A Brief History Of Time*** *- Stephen Hawking (Second Read)*
+
+***Quiet: The Power of Introverts in a World That Can’t Stop Talking*** *- Susan Cain*
+
+***How To Win Friends and Influence People*** *- Dale Carnegie (Second Read)*
+
+***Salt, Sugar, Fat*** *- Michael Moss*
+
+***Proofs and Refutations: The Logic of Mathematical Discovery*** *- Imre Lakatos*

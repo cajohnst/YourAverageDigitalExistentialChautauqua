@@ -1,7 +1,7 @@
 # YourAverageDigitalExistentialChautauqua
 
 ## What is a Chautauqua?
-As I understand it, the chautauqua originated as a form of educational entertainment to the masses. A preacher, artist, educator, or troop might tour from town to town to share their stories in exchange for a place to stay and maybe a meal or two. On the circuit, they might expect to traverse a multitude of terrains from the lowest corner of the Mississippi to Oregon - the wild, unsettled West.  I can't help but imagine that, not only did these chautauquans give the road a bit of wear, to greater effect, the road must have given them some wear as well! I believe the chautauqua is a form of storytelling. Storytelling is how we make sense of the world, and how the world makes sense of us. *Through* it we leave our tracks in the desert and *by* it we get a bit of that rugged dirt between our toes which transfigures up our spine.
+As I understand it, the chautauqua originated as a form of educational entertainment to the masses. Beginning in Chautauqua, New York, a preacher, artist, educator, or troop might tour from town to town to share their stories in exchange for a place to stay and maybe a meal or two. On the circuit, they might expect to traverse a multitude of terrains from the lowest corner of the Mississippi to Oregon - the wild, unsettled West.  I can't help but imagine that, not only did these chautauquans give the road a bit of wear, to greater effect, the road must have given them some wear as well! I believe the chautauqua is a form of storytelling. Storytelling is how we make sense of the world, and how the world makes sense of us. *Through* it we leave our tracks in the desert and *by* it we get a bit of that rugged dirt between our toes, which transfigures up our spine.
 
 Of course, I would be remiss if I did not reference Robert Pirsig's book Zen and the Art of Motorcycle Maintenance as providing my initial point of reference for the chautauqua. If you have not read this novel, I highly recommend reading it.
 
@@ -14,3 +14,4 @@ So here it is. My digital chautauqua, a little slice of the internet - irrefutab
 *Cheers,*
 
 *C*
+

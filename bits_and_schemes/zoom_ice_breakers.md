@@ -8,7 +8,7 @@ It was with this in mind that Laurence sat down to his new company's Zoom happy 
 
 For most, this is a moment of high anxiety. The mind floods with endless simulations of scenarios in which personal interests are labeled *"not safe!"* or *"forgettable!"* and the narrating, risk-averse self typically leans toward the latter. First impressions define relationships after all!
 
-But Laurence is not like this. Laurence knows a little white lie will spark *just* the right amount of intrigue. Laurence smiles wistfully, then discloses that he is six feet and ten inches tall - to gasps then silence from his captive audience. The evidence for such a claim ought to be obvious. He is on camera, in plain sight to all, and yet... it isn't entirely refutable. He and Rachel are in Chicago, the rest of the group are in New York, Seattle, Austin. Laurence had never been to company headquarters and was even hired over Zoom! So who can verify this tidbit? Rachel of course. His good friend Rachel. Without a beat missed, Rachel cooly confirms the claim.
+But Laurence is not like this. Laurence knows a little white lie will spark *just* the right amount of intrigue. Laurence smiles wistfully, then discloses that he is six feet and ten inches tall - to gasps then silence from his captive audience. The evidence for such a claim ought to be obvious. He is on camera, in plain sight to all, and yet... it isn't entirely refutable. He and Rachel are in Chicago, the rest of the group are in New York, Seattle, Austin. Laurence had never been to company headquarters and was even hired over Zoom! So who can verify this tidbit? Rachel of course. His good friend Rachel. Rachel confirms the claim without a second beat.
 
 The follow up questions are predictable: "You must have had basketball aspirations?" - to which he replies "naturally, but my jump hook wasn't quite what scouts were looking for". Most other questions are lazily brushed aside, as if Laurence has nothing to prove. And he doesn't. "What's your shoe size?" - "13, feet run small in my family". The berating continues: "Ok, not that I don't trust you, but would you stand in your doorway?" Laurence dignifies this with an eye roll and a sigh, then a breathy chuckle as if standing up were a chore, but he complies nonetheless. Laurence's head does indeed come close to the top of the doorframe, to which he exlaims "12 foot ceilings. One of ten complexes in Manhattan, my realtor had a field day when she found it." Having guilelessly survived the onslaught of interrogative questioning, and after a brief puase, Lindsey, the Zoom host, regathered attentions to focus on the next poor soul whose attempt to seem interesting or modern would ultimately be catastrophic following Laurence's Goliath sized claim.
 
@@ -50,7 +50,7 @@ Mewling and puking in the nurse's arms.
 Then the whining schoolboy, with his satchel
 And shining morning face, creeping like snail
 Unwillingly to school. Then he grows and grows, and
-His self-stature expands to six feet and ten inches.
+His stature increases to six feet and ten inches.
 He is audacious, cracking Zoom ice breakers with pointed
 Wit and charm. He becomes the lover,
 Sighing like furnace, with a woeful ballad
